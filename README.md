@@ -5,6 +5,8 @@ The debian directory was initially created using ```dh_make -p dimbacklight_1-0 
 
 It is built using ```gbp buildpackage``` following instructions from https://wiki.debian.org/PackagingWithGit
 
+It is also built using ```debuild -S``` then pushed to launchpad with ```dput -d -f ppa:rigault-francois/ppa ...source```
+
 
 This contains artwork got from http://www.iconarchive.com/show/starwars-icons-by-everaldo/Darth-Vader-icon.html
 
