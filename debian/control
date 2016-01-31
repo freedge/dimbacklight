@@ -1,0 +1,12 @@
+Source: dimbacklight
+Section: misc
+Priority: optional
+Maintainer: Francois Rigault <frigault@unknown>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: https://github.com/freedge/dimbacklight
+
+Package: dimbacklight
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, xbacklight
+Description: Dim the backlight

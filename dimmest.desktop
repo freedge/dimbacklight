@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Icon=/usr/share/app-install/icons/Darth-Vader-icon.png
+Name=Dim
+Comment=Set the backlight to something lower
+Categories=Accessories
+Exec=xbacklight -set 1
+Path=/tmp
+StartupNotify=true
+Terminal=false
