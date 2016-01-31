@@ -1,0 +1,5 @@
+debian/dimbacklight.debhelper.log
+debian/dimbacklight.substvars
+debian/dimbacklight/
+debian/files
+
