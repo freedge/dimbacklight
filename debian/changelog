@@ -2,6 +2,8 @@ dimbacklight (1-1) unstable; urgency=low
 
   * Put files in the proper folder
 
+ -- Francois Rigault <rigault.francois@gmail.com>  Sun, 31 Jan 2016 06:05:56 +0100
+
 dimbacklight (1-0) unstable; urgency=low
 
   * Initial Release.
